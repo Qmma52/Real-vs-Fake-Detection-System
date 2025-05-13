@@ -61,6 +61,9 @@ A **Flask-based machine learning** application designed to detect whether upload
 - **Hamza Kamran**  
   GitHub: [Hamza-hani](https://github.com/Hamza-hani)
 
+-**Qazi Muhammmad Mustafa Ali**
+ Github: [Qmma52](https://github.com/Qmma52)
+
 ---
 
 ## 📘 License
